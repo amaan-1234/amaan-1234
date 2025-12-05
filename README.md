@@ -14,7 +14,7 @@ Currently, I am diving deep into **Generative AI, LLMs, and Computer Vision** to
 | **Domain** | **Technologies** |
 | :--- | :--- |
 | **🧠 AI & ML** | Python, PyTorch, TensorFlow, Scikit-Learn, OpenCV, LangChain, HuggingFace |
-| **🤖 GenAI & LLMs** | GPT-4, Llama 3, RAG Pipelines, Prompt Engineering, Groq API, Stable Diffusion |
+| **🤖 GenAI & LLMs** | RAG Pipelines, Prompt Engineering, Groq API, Stable Diffusion |
 | **☁️ Cloud & DevOps** | AWS, Docker, Kubernetes, Git, Vercel |
 | **📊 Data & Viz** | SQL, PostgreSQL, MongoDB, Tableau, Power BI, Pandas, NumPy |
 
