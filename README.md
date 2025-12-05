@@ -15,7 +15,7 @@ Currently, I am diving deep into **Generative AI, LLMs, and Computer Vision** to
 | :--- | :--- |
 | **🧠 AI & ML** | Python, PyTorch, TensorFlow, Scikit-Learn, OpenCV, LangChain, HuggingFace |
 | **🤖 GenAI & LLMs** | RAG Pipelines, Prompt Engineering, Groq API, Stable Diffusion |
-| **☁️ Cloud & DevOps** | AWS, Docker, Kubernetes, Git, Vercel |
+| **☁️ Cloud & DevOps** | AWS, Docker, Git, Vercel |
 | **📊 Data & Viz** | SQL, PostgreSQL, MongoDB, Tableau, Power BI, Pandas, NumPy |
 
 ---
@@ -29,7 +29,7 @@ Here are a few things I've built recently:
 - **Tech:** Next.js 16, Groq API (Llama 3.3), XTTS v2 (Voice Cloning), Web Speech API.
 - **Highlight:** Achieved sub-second response times using server-side streaming.
 
-#### ⚡ [RL for EV Charging Optimization]([https://github.com/amaan-1234](https://github.com/amaan-1234/RL_Project)
+#### ⚡ [RL for EV Charging Optimization](https://github.com/amaan-1234/RL_Project)
 *Optimizing fleet charging schedules to reduce costs and peak load.*
 - **Tech:** PyTorch, Stable-Baselines3, Gymnasium, PPO/SAC Algorithms.
 - **Impact:** Reduced peak energy demand by **15-25%** in simulations.
