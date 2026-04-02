@@ -1,8 +1,8 @@
-# Amaan Mohamed
+# Hi, I am Amaan Mohamed
 **Data Analyst | Data Scientist | Business Analyst | Data Engineer | ML Engineer | AI Engineer**
 
 I am an **MS in Data Science candidate at Arizona State University** (Tempe, AZ), graduating in **May 2026**, with **3+ years of experience** across hackathons, projects, coursework, internships, and part-time roles. I specialize in turning raw data into **dashboards, experiments, predictive models, and deployed AI applications** that drive measurable business outcomes.
-
+---
 ## What I Do
 
 * **Analytics & BI:** Build end-to-end analyses, dashboards, and reports that answer concrete business questions and influence decisions.
@@ -10,7 +10,7 @@ I am an **MS in Data Science candidate at Arizona State University** (Tempe, AZ)
 * **Experimentation & Causal Analysis:** Run A/B tests and statistical analyses to measure impact and guide product or business changes.
 * **Data Engineering:** Build Python, SQL, and cloud-based ETL workflows to clean, transform, and organize data for analytics and ML.
 * **AI & Applied ML:** Develop applied GenAI, RAG, and computer vision systems, and deploy them as usable tools and services.
-
+---
 ## Skills at a Glance
 
 ### Analytics & Business Intelligence
@@ -40,7 +40,7 @@ I am an **MS in Data Science candidate at Arizona State University** (Tempe, AZ)
 * **Infrastructure:** Vector databases and retrieval pipelines
 * **Deployment:** Model deployment (APIs, web apps, and services)
 * **Version Control & CI/CD:** Git, GitHub, CI/CD basics
-
+---
 ## Featured Projects
 
 **1. A/B Testing for Product Decisions (ABtest)**
@@ -60,7 +60,7 @@ A machine learning project focused on predicting clinical trial outcomes using s
 
 **6. RL-Driven EV Charging Optimization (RL_Electric_Vehicle_Charging)**
 A reinforcement learning project that optimizes EV charging schedules to **reduce peak load and energy costs**. Using RL agents, the system learns to shift demand and achieved **15-25% peak reduction** under tested scenarios. This project shows how I apply **advanced ML to real-world operational and energy problems** with clear, quantitative impact.
-
+---
 ## How I Work
 
 * **Business-First Approach:** I start from the business question and work backward to the right mix of analytics, modeling, and engineering.
