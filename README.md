@@ -1,7 +1,7 @@
 # Hi, I am Amaan Mohamed
 **Data Analyst | Data Scientist | Business Analyst | Data Engineer | ML Engineer | AI Engineer**
-
-I am an **MS in Data Science candidate at Arizona State University** (Tempe, AZ), graduating in **May 2026**, with **3+ years of experience** across hackathons, projects, coursework, internships, and part-time roles. I specialize in turning raw data into **dashboards, experiments, predictive models, and deployed AI applications** that drive measurable business outcomes.
+---
+## I am an **MS in Data Science candidate at Arizona State University** (Tempe, AZ), graduating in **May 2026**, with **3+ years of experience** across hackathons, projects, coursework, internships, and part-time roles. I specialize in turning raw data into **dashboards, experiments, predictive models, and deployed AI applications** that drive measurable business outcomes.
 ---
 ## What I Do
 
